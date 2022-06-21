@@ -1,7 +1,7 @@
 bitarray==1.0.1
 crccheck==0.6
 crcmod==1.7
-numpy==1.17.2
+numpy==1.22.0
 pyserial==3.4
 python-dateutil==2.8.0
 six==1.12.0
